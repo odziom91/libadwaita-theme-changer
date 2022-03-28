@@ -24,5 +24,11 @@ chmod +x libadwaita-tc.py
 ./libadwaita-tc.py
 ```
 
+## How to reset to default Adwaita theme?
+Run script with --reset parameter:
+```
+./libadwaita-tc.py --reset
+```
+
 ## Contact
 Polish Discord channel "Polska Społeczność Linuxa": https://discord.gg/tfsUgwPyVx
