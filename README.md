@@ -23,3 +23,6 @@ chmod +x libadwaita-tc.py
 ```
 ./libadwaita-tc.py
 ```
+
+## Contact
+Polish Discord channel "Polska Społeczność Linuxa": https://discord.gg/tfsUgwPyVx
