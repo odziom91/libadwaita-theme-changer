@@ -31,4 +31,4 @@ Run script with --reset parameter:
 ```
 
 ## Contact
-Polish Discord channel "Polska Społeczność Linuxa": https://discord.gg/tfsUgwPyVx
+Polish Discord channel "Polska Społeczność Linuxa": https://discord.gg/AnG2Kv6axS
